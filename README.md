@@ -1,2 +1,2 @@
-# MineAssets
-Public assets for Bayoneta Client
+# Minecraft Client Assets
+Publically available assets for Bayoneta Client
